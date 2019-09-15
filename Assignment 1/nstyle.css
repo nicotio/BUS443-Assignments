@@ -1,0 +1,86 @@
+#flamingo {
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg");
+background-size: cover;
+background-repeat:no-repeat;
+color: #fff;
+margin: 0;
+font-size: 100px;
+padding: 35px;
+text-align: center;
+}
+
+#bus443 {
+background-color: #ff1212;
+color: #fff;
+margin:0;
+padding: 25px;
+text-align: center;
+}
+
+#blues {
+  background-color: #b1e7f6;
+  margin:0;
+  padding: 40px;
+  text-align: center;
+}
+
+#greens {
+  background-color: #85ec62;
+  margin:0;
+  padding: 40px;
+  text-align: center;
+}
+
+#yellows {
+  background-color: #fde13c;
+  margin:0;
+  padding: 40px;
+  text-align: center;
+}
+
+#reds {
+  background-color: #f06e60;
+  margin:0;
+  padding: 40px;
+  text-align: center;
+}
+
+.pos1 {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.text1 {
+  text-align: center;
+}
+
+ol.a {
+  list-style-type: upper-roman;
+  list-style-position: inside;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  margin-bottom:  35px;
+  text-align: left;
+  table-layout: auto;
+}
+
+.move-mid {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+
+a {
+
+  color: red;
+}
